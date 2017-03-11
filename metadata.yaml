@@ -1,5 +1,8 @@
 _repo: The-Shuttle_506
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burnett, Frances Hodgson
@@ -17,6 +20,8 @@ description: Rosalie Vanderpoel, daughter of a wealthy American, marries into a 
   travels to England to find out what happened. When she arrives, her money and spunk
   revitalize the English society she comes in contact with, suggesting that Britain
   needs to adopt an American mentality if it is to improve its future.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/506#The-Shuttle
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2006-03-18'
 gutenberg_type: Text
